@@ -1,2 +1,0 @@
-# SimpleAuthJWTExmpl
-Created with CodeSandbox
